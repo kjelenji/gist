@@ -2,7 +2,7 @@
 <sub> Gist is a word puzzle game where players solve a series of mini-puzzles — riddles, rebuses, and more — to piece together a story. Each correct answer reveals another part of the story. </sub>
 
 
-<img src="https://raw.githubusercontent.com/kjelenji/gist/main/myapp/static/icon.png" alt="Gist Logo" width="100"/>
+<img src="https://raw.githubusercontent.com/kjelenji/gist/main/myapp/static/icon.png" alt="Gist Logo" width="130"/>
 
 ---
 
