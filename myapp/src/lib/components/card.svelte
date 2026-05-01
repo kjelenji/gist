@@ -7,7 +7,7 @@
     <div class="card">
       <h1 class="center">Maybe next time...</h1>
       
-      <img src="../src/public/icon.png" class="gist-logo" alt="Gist Logo">
+      <img src="/icon.png" class="gist-logo" alt="Gist Logo">
 
 
       <div class="split">
