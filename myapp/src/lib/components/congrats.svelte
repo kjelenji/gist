@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="../src/public/styles.css">
   <div class="container">
     <div class="card">
-      <img src="../src/public/icon.png" class="gist-logo" alt="Gist Logo">
+      <img src="/icon.png" class="gist-logo" alt="Gist Logo">
 
       <h1 class="center" style="margin: 10px 0 5px 0;">Congratulations!</h1>
       <p>You have successfully solved the puzzle and unlocked the picture behind the story!</p>
