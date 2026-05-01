@@ -1,10 +1,8 @@
-# Gist: **Solve puzzles to get the gist of the story.**
+# Gist: An inclusive puzzle storytelling game
+Gist is a word puzzle game where players solve a series of mini-puzzles — riddles, rebuses, and more — to piece together a story. Each correct answer reveals another part of the story.
 
 
 <img src="https://raw.githubusercontent.com/kjelenji/gist/main/myapp/static/icon.png" alt="Gist Logo" width="80"/>
-
-
-Gist is a word puzzle game where players solve a series of mini-puzzles — riddles, rebuses, and more — to piece together a hidden narrative. Each correct answer reveals another part of the story.
 
 ---
 
