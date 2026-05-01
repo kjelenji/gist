@@ -469,7 +469,7 @@ img {
   border: none !important;
 
    /* Crucial: Pull it up if there's still a gap */
-  margin-top: -680px !important;
+  margin-top: -650px !important;
 }
 
 /* Also ensure the icon inside scales down if it's still too large */
