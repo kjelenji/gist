@@ -93,7 +93,7 @@
          <div class = "top-border frame-bar">
          <div class="header-left">
           <a href="/" class="home-link">
-            <img src="../src/lib/assets/favicon.svg" alt="Home"/>
+            <img src="/favicon.svg" alt="Home"/>
           </a>
           </div>
            <div class="header-right">
