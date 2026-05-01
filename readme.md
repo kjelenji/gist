@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/kjelenji/gist/main/myapp/static/icon.png" alt="Gist Logo" width="80"/>
-
 # Gist
+---
+
+<img src="https://raw.githubusercontent.com/kjelenji/gist/main/myapp/static/icon.png" alt="Gist Logo" width="80"/>
 
 **Solve puzzles to get the gist of the story.**
 
