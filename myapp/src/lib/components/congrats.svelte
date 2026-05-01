@@ -8,12 +8,13 @@
       <img src="/icon.png" class="gist-logo" alt="Gist Logo">
 
       <h1 class="center" style="margin: 10px 0 5px 0;">Congratulations!</h1>
+      <br><br><br>
       <p>You have successfully solved the puzzle and unlocked the picture behind the story!</p>
 
       <div class="split">
         <div class="lr">
           <div class = "points-col">
-                 <br><br><br>
+                 
                  <p>Demo</p>
                  <p>？ Riddles: {$riddlePoints}</p>
                  <p>⧉ Rebus: {$rebusPoints}</p>
