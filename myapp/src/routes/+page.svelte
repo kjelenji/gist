@@ -51,7 +51,7 @@
         
         <div class = "inner-border">
           <div class="center">
-              <img src="../src/public/icon.png" width="250" alt="Gist Logo">
+              <img src="/icon.png" width="250" alt="Gist Logo">
           </div>
         
           <h3 class="text">Solve puzzles to get <br> the gist of the story!</h3>
