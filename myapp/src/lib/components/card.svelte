@@ -12,6 +12,7 @@
 
       <div class="split">
         <div class="points-col">
+          <br><br><br>
           <p>Demo</p>
           <p>？ Riddles: {$riddlePoints}</p>
           <p>⧉ Rebus: {$rebusPoints}</p>
