@@ -1,4 +1,4 @@
-
+@import "tailwindcss";
 .center {
   display: flex;
   justify-content: center;
