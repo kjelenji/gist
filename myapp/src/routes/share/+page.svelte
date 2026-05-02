@@ -98,7 +98,7 @@
     </div>
 
     <div class="center" style="margin: 12px 0; text-align: center; width: 100%;">
-      <p> Your feedback can improve Gist! </p> <a href="https://forms.gle/f9MGyLDkzDfZvmqv8"> https://forms.gle/f9MGyLDkzDfZvmqv8</a>
+      <p>Your feedback can improve Gist! <a href="https://forms.gle/f9MGyLDkzDfZvmqv8"> https://forms.gle/f9MGyLDkzDfZvmqv8</a></p>
     </div>
 
       
