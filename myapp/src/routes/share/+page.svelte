@@ -97,6 +97,8 @@
         </div>
     </div>
 
+    <div class = "center"> Your feedback can improve Gist! <a> https://forms.gle/f9MGyLDkzDfZvmqv8 </a> </div>
+
       
 
       <footer class="footer"> <p>© 2026 Gist | <a href="/terms">Terms</a></p> </footer>
