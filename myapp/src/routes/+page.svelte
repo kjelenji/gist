@@ -11,7 +11,7 @@
 <main>
     <link rel="stylesheet" href="../src/public/styles.css">
     <title>
-      Gist
+      gist
     </title>
     <div class="container">
       <div class = "border">
