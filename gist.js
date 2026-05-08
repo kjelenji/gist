@@ -17,7 +17,7 @@ const __dirname = path.dirname(__filename);
 
 const METADATA_DIR = path.join(__dirname, 'generated_metadata');
 
-const genAI = new GoogleGenerativeAI('AIzaSyBYMgBPE9yzVZeYsT6np_K6Y-pOHiiOvsc');
+const genAI = new GoogleGenerativeAI(API_KEY);
 async function generateWords() {
     const prompt = `Generate exactly 3 words that sound like a single real word when combined phonetically, followed by that combined word. Output ONLY the 4 words separated by commas on a single line. No explanations, no numbering, no extra text. Example format: Sea, Weed, Shell, Seashell`;
     
